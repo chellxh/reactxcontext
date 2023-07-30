@@ -1,0 +1,15 @@
+.budget-header {
+  background-color: black;
+  color: white;
+  padding: 50px 50px;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.budget-header h1 {
+  padding: 25px 25px;
+}
+
+.budget-header p {
+  margin: 15px 25px;
+}

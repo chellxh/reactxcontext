@@ -1,0 +1,22 @@
+.budget-form {
+  margin-top: 50px;
+}
+
+.budget-select {
+  width: 100px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.budget-input {
+  width: 250px;
+  font-size: 20px;
+}
+
+.budget-submit {
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  padding: 0px 10px;
+  border-radius: 2px 2px 2px 2px;
+}

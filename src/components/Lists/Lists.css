@@ -1,0 +1,16 @@
+.list-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.li-style {
+  list-style: none;
+  border-bottom: 1px solid black;
+  margin: 5px 5px;
+}
+
+.li-style span {
+  display: inline-block;
+  margin: 20px 20px;
+  min-width: 250px;
+}
